@@ -1,7 +1,3 @@
-# Welcome to my profile! 👋
-
-My name is Barnabas. I am currently a freelance **full-stack software developer**.
-
 <div align="center">
 <br>
 Editors of choice:
@@ -30,4 +26,4 @@ Editors of choice:
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baloghb0110&show_icons=true&theme=codeSTACKr&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prpty0110&show_icons=true&theme=codeSTACKr&rank_icon=github)
